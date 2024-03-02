@@ -19,8 +19,11 @@ UML Class Diagram as an embedded JPG/PNG.
 ERD as an embedded JPG/PNG and URL to its LucidChart diagram.
 
 Definition of relational schema with proof that it is in BCNF.
+
 --------------------------------------------------------------------------
 # PART 5-6 / E
+
+## Copy everything in the SQL file called PART_5, 6 - CREATE TABLE + INSERT INTO DATA.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
 
 (10 pts) Create a set of SQL data definition statements for the above model and realize that schema in SQLite3 by executing the script from the SQLite3, the console or Node. You can use DB Browser to generate these statements. Show that the tables were created and conform to the constraints through screen shots or other means.
 
@@ -28,13 +31,13 @@ Definition of relational schema with proof that it is in BCNF.
 
 SQL file (text file) with the table definitions and creation SQL statements that can be executed with SQLite3
 
-## Copy everything in the SQL file called PART_5, 6 - CREATE TABLE + INSERT INTO DATA.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
 --------------------------------------------------------------------------
 # Part 7
+
+## The 5 queries are in the SQL file called PART_7 - SQL SELECT QUERIES.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
 
 (10 pts) Define and execute at least five queries that show your database. At least one query must contain a join of at least three tables, one must contain a subquery, one must be a group by with a having clause, and one must contain a complex search criterion (more than one expression with logical connectors). Experiment with advanced query mechanisms such as RCTE, PARTITION BY, or SELECT CASE/WHEN.
 
 SQL files for each one of the queries created on point 7, with clear documentation of what they achieve and examples of their outputs.
 
-## The 5 queries are in the SQL file called PART_7 - SQL SELECT QUERIES.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
 
