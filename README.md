@@ -25,6 +25,8 @@ Definition of relational schema with proof that it is in BCNF.
 
 ## Copy everything in the SQL file called PART_5, 6 - CREATE TABLE + INSERT INTO DATA.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
 
+https://github.com/williampan22/project1/blob/main/PART_5%2C%206%20-%20CREATE%20TABLE%20%2B%20INSERT%20INTO%20DATA.sql
+
 (10 pts) Create a set of SQL data definition statements for the above model and realize that schema in SQLite3 by executing the script from the SQLite3, the console or Node. You can use DB Browser to generate these statements. Show that the tables were created and conform to the constraints through screen shots or other means.
 
 (10 pts) Populate the tables with test data. You can use tools such as https://www.mockaroo.com/schemasLinks to an external site. or  https://www.generatedata.com/Links to an external site..
@@ -35,6 +37,8 @@ SQL file (text file) with the table definitions and creation SQL statements that
 # Part 7
 
 ## The 5 queries are in the SQL file called PART_7 - SQL SELECT QUERIES.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
+
+https://github.com/williampan22/project1/blob/main/PART_7%20-%20SQL%20SELECT%20QUERIES.sql
 
 (10 pts) Define and execute at least five queries that show your database. At least one query must contain a join of at least three tables, one must contain a subquery, one must be a group by with a having clause, and one must contain a complex search criterion (more than one expression with logical connectors). Experiment with advanced query mechanisms such as RCTE, PARTITION BY, or SELECT CASE/WHEN.
 
