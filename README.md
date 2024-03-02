@@ -18,6 +18,8 @@ Definition of relational schema with proof that it is in BCNF.
 
 ## Download the PDF called PART_1, 2, 3, 4 - REQUIREMENTS_UML_ERD_BCNF RELATIONAL (1).pdf in the github repository. 
 
+https://github.com/williampan22/project1/blob/main/PART_1%2C%202%2C%203%2C%204%20-%20REQUIREMENTS_UML_ERD_BCNF%20RELATIONAL%20(1).pdf
+
 # PART 5-6 / E
 
 (10 pts) Create a set of SQL data definition statements for the above model and realize that schema in SQLite3 by executing the script from the SQLite3, the console or Node. You can use DB Browser to generate these statements. Show that the tables were created and conform to the constraints through screen shots or other means.
