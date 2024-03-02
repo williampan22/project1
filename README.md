@@ -2,7 +2,7 @@
 
 ## Download the PDF called PART_1, 2, 3, 4.pdf in the github repository. 
 
-https://github.com/williampan22/project1/blob/main/PART_1%2C%202%2C%203%2C%204%20-%20REQUIREMENTS_UML_ERD_BCNF%20RELATIONAL%20(1).pdf
+https://github.com/williampan22/project1/blob/main/PART_1%2C%202%2C%203%2C%204.pdf
 
 (10 pts) Describe the requirements of the problem with a simple document that lists the rules of the database in the problem domain language. Then from that list of rules and notes highlight the list of possible nouns and actions you identified. I'm expecting this to be a short 1 or 2 pages document.
 
@@ -25,7 +25,7 @@ Definition of relational schema with proof that it is in BCNF.
 
 ## Copy everything in the SQL file called PART_5,6.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
 
-https://github.com/williampan22/project1/blob/main/PART_5%2C%206%20-%20CREATE%20TABLE%20%2B%20INSERT%20INTO%20DATA.sql
+https://github.com/williampan22/project1/blob/main/PART_5%2C6.sql
 
 (10 pts) Create a set of SQL data definition statements for the above model and realize that schema in SQLite3 by executing the script from the SQLite3, the console or Node. You can use DB Browser to generate these statements. Show that the tables were created and conform to the constraints through screen shots or other means.
 
@@ -38,7 +38,7 @@ SQL file (text file) with the table definitions and creation SQL statements that
 
 ## The 5 queries are in the SQL file called PART_7.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
 
-https://github.com/williampan22/project1/blob/main/PART_7%20-%20SQL%20SELECT%20QUERIES.sql
+https://github.com/williampan22/project1/blob/main/PART_7.sql
 
 (10 pts) Define and execute at least five queries that show your database. At least one query must contain a join of at least three tables, one must contain a subquery, one must be a group by with a having clause, and one must contain a complex search criterion (more than one expression with logical connectors). Experiment with advanced query mechanisms such as RCTE, PARTITION BY, or SELECT CASE/WHEN.
 
