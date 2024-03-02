@@ -1,6 +1,6 @@
 # PART 1-4 / A-D 
 
-## Download the PDF called PART_1, 2, 3, 4 - REQUIREMENTS_UML_ERD_BCNF RELATIONAL (1).pdf in the github repository. 
+## Download the PDF called PART_1, 2, 3, 4.pdf in the github repository. 
 
 https://github.com/williampan22/project1/blob/main/PART_1%2C%202%2C%203%2C%204%20-%20REQUIREMENTS_UML_ERD_BCNF%20RELATIONAL%20(1).pdf
 
@@ -23,7 +23,7 @@ Definition of relational schema with proof that it is in BCNF.
 --------------------------------------------------------------------------
 # PART 5-6 / E
 
-## Copy everything in the SQL file called PART_5, 6 - CREATE TABLE + INSERT INTO DATA.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
+## Copy everything in the SQL file called PART_5,6.sql in the github repository. Paste it into the "Execute SQL" terminal in DBrowser. 
 
 https://github.com/williampan22/project1/blob/main/PART_5%2C%206%20-%20CREATE%20TABLE%20%2B%20INSERT%20INTO%20DATA.sql
 
@@ -36,7 +36,7 @@ SQL file (text file) with the table definitions and creation SQL statements that
 --------------------------------------------------------------------------
 # Part 7
 
-## The 5 queries are in the SQL file called PART_7 - SQL SELECT QUERIES.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
+## The 5 queries are in the SQL file called PART_7.sql in the github repository. Paste each query one at a time into the "Execute SQL" terminal in DBrowser.
 
 https://github.com/williampan22/project1/blob/main/PART_7%20-%20SQL%20SELECT%20QUERIES.sql
 
